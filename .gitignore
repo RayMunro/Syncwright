@@ -1,0 +1,5 @@
+.build/
+Syncwright.app/
+.DS_Store
+.swiftpm/
+dist/
